@@ -20,11 +20,11 @@ Here's a description for your Flutter Note app repository:
 
 ---
 
-**Flutter Note App Repository**
+## Flutter Note App Repository
 
 This repository is a comprehensive Flutter Note app that integrates essential functionalities for managing notes efficiently. It leverages Firebase services such as FirebaseDatabase for data storage and Firebase Auth for user authentication, ensuring a secure and reliable user experience.
 
-Key Features:
+# Key Features:
 
 1. **Firebase Integration**: Seamlessly connects with Firebase services for efficient data management and user authentication, ensuring data security and reliability.
 
@@ -43,8 +43,6 @@ Key Features:
    - **Responsive**: Ensures responsiveness across different devices for a consistent user experience.
 
 5. **Enhanced Functionality**:
-   - **Search**: Includes a search feature to quickly find specific notes based on keywords or tags.
-   - **Sort**: Enables sorting of notes based on various criteria such as date, title, or category for better organization.
    - **Backup and Restore**: Allows users to back up their notes and restore them as needed for data protection and recovery.
 
 Overall, this Flutter Note app repository offers a robust solution for managing notes effectively, combining essential features with Firebase integration for a reliable and feature-rich user experience.
